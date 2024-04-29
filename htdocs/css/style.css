@@ -1,0 +1,4 @@
+#Header .jumbotron {
+    background-image: url(img/cover.png); background-size: cover;
+    margin-bottom: 0px; height: 50vh;
+}
